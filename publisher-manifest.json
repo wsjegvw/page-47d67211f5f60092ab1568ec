@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2a576a906190c1b32d1842ce",
+  "owner": "wsjegvw",
+  "repo": "page-47d67211f5f60092ab1568ec",
+  "title": "狂热云(feverss)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "47d67211f5f60092ab1568ec",
+      "a": "狂热云(feverss)",
+      "b": "机场官网线路发布页",
+      "entity": "狂热云(feverss)",
+      "brand": "狂热云(feverss)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b6326d980add9c476129e1869823d55dce19360499c29c0b8b85a43670ed342d",
+      "content": {
+        "primary_entity": "狂热云(feverss)",
+        "keyword1": "狂热云(feverss)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，分别对应 100GB、300GB 与 1000GB 月流量，支持 3 至 20 台设备同时在线，可按月或按年付。选择时先确认设备数量与流量需求，再在各平台客户端导入订阅配置即可使用。",
+          "AI_HERO_SUBTITLE": "三档套餐适配多设备订阅",
+          "AI_HERO_INTRO": "狂热云(feverss)提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，设备数从 3 台到 20 台，按年付可节省两个月费用。",
+          "AI_VISUAL_TITLE": "狂热云订阅套餐与客户端配置",
+          "AI_HIGHLIGHT_1": "基础版 100GB 支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 300GB 支持 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版 1000GB 支持 20 台设备",
+          "AI_FEATURES_TITLE": "套餐与使用特点",
+          "AI_FEATURES_INTRO": "从流量、设备数和订阅周期三个角度选择合适套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版适合 3 台设备，旗舰版适合 5 台，团队版支持 20 台同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量需求选档位",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB，旗舰版与团队版覆盖更高带宽使用场景。",
+          "AI_FEATURE_TITLE_3": "按年付更划算",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供按年付选项，年付价格相当于十个月月付费用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同平台有对应的客户端软件，导入订阅链接即可完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按设备数与流量需求选择。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "按三步完成套餐选择与订阅配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版和团队版中选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认操作系统与客户端支持情况，选择对应的订阅配置方式。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅链接，按软件文档完成节点选择与连接。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "狂热云(feverss)套餐如何计费？",
+          "AI_FAQ_ANSWER_1": "提供按月与按年两种计费方式，基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台，超出数量需升级套餐。",
+          "AI_FAQ_QUESTION_3": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_3": "在购买后获取订阅链接，打开对应平台的客户端软件，找到订阅导入功能粘贴链接，更新节点后即可连接使用。",
+          "AI_FAQ_QUESTION_4": "不同设备该选哪个客户端？",
+          "AI_FAQ_ANSWER_4": "Windows 与 macOS 可选常用桌面客户端，Android 与 iOS 使用移动端应用，路由器等设备按系统文档选择适配软件。",
+          "AI_FAQ_QUESTION_5": "套餐流量用完后怎么办？",
+          "AI_FAQ_ANSWER_5": "当月流量用尽后可升级到更高档位套餐，或等待下个计费周期重置流量，具体以购买时的套餐说明为准。",
+          "AI_CLOSING_TITLE": "选对套餐开始使用",
+          "AI_CLOSING_TEXT": "根据设备数与流量需求选择套餐，导入订阅即可连接。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "warig.cn",
+    "host": "warig.cn"
+  },
+  "file_hashes": {
+    "index.html": "998a98a22ef65a21c2e2984d70067f9044533532604dd8dfc66ee3e5c40176cf",
+    "sitemap.xml": "c3b1d710e5f702d7e2b13a093f561f8dee371e55c5ff2088222645abcdb2661a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9210127cf9d813d22af741945ee9d2efce322dc255ef5e63e3c81deb90c26bb7",
+    "robots.txt": "d9cbfb3229210d39130854bb558801328c9b06852d058ec68c8aa45475db0773",
+    "c4e629baf634e4a8138dbd5072250a60.txt": "5fe14fc58c9d7fd87afecc3d8a954e2a9b1e46600cef9196b0e8c03308db69af"
+  },
+  "revision": "896508429319338f3e6512ac95cbbbce34988fe209da0d050059fd78e543358a"
+}
